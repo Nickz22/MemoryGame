@@ -1,0 +1,248 @@
+.bigSquare {
+	background: -webkit-linear-gradient(red, purple);
+	width: 65%;
+	height: 475px;
+	margin: auto;
+}
+
+.lilSquare {
+	display: inline-block;
+	height: 100px;
+	width: 22%;
+	background: -webkit-linear-gradient(cyan, white);
+	margin: 0 auto;
+	margin-top: 12px;
+	margin-left: 10px;
+	margin-right: 10px;
+  float: left; 
+}
+.flipped1 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: yellow;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('https://comedycentral.mtvnimages.com/images/ccstandup/comedians/800x600/louis_ck_800x600.jpg?width=800&height=600&crop=true&quality=0.91');
+}
+
+.flipped2 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('http://www.epictimes.com/wp-content/uploads/2016/04/judge-protects-bill-cosby-from-self-incrimination.jpg');
+
+}
+.flipped3 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('http://www.bkmag.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-02-at-8.40.08-PM.png');
+}
+.flipped4 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('http://gotham-magazine.com/get/files/image/galleries/content_Kevin-Spacey-Gotham-Magazine-1.jpg');
+}
+.flipped5 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: url('http://www.showbiz411.com/wp-content/uploads/2017/04/bill-oreilly-lost-custody.jpg');
+}
+.flipped6 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: url('http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jeremy-piven_sc_768x1024.png');
+}
+.flipped7 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('http://dailycaller.com/wp-content/uploads/2017/11/Ed-Westwick-e1510080290195.jpg');
+}
+.flipped8 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: url('http://cdn2.thr.com/sites/default/files/2013/10/brett_Ratner_7.jpg');
+}
+.flipped9 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: url('http://gotham-magazine.com/get/files/image/galleries/content_Kevin-Spacey-Gotham-Magazine-1.jpg');
+}
+.flipped10 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('http://www.bkmag.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-02-at-8.40.08-PM.png');
+}
+.flipped11 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: url('http://www.showbiz411.com/wp-content/uploads/2017/04/bill-oreilly-lost-custody.jpg');
+}
+.flipped12 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('http://dailycaller.com/wp-content/uploads/2017/11/Ed-Westwick-e1510080290195.jpg');
+
+}
+.flipped13 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: url('http://cdn2.thr.com/sites/default/files/2013/10/brett_Ratner_7.jpg');
+
+}
+.flipped14 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content: url('http://static.tvgcdn.net/mediabin/showcards/celebs/j/thumbs/jeremy-piven_sc_768x1024.png');
+
+}
+.flipped15 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('https://comedycentral.mtvnimages.com/images/ccstandup/comedians/800x600/louis_ck_800x600.jpg?width=800&height=600&crop=true&quality=0.91');
+}
+.flipped16 {
+  transform:rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: transform .5s;
+  background: black;
+  width: 22%;
+  height: 100px;
+  margin: auto;
+  margin-top: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  content:url('http://www.epictimes.com/wp-content/uploads/2016/04/judge-protects-bill-cosby-from-self-incrimination.jpg');
+
+}
+
+#winningAlert {
+	 position: relative;
+	 background-color: cyan;
+	 display: none;
+	 border: 3px;
+	 border-style: solid;
+	 height: 20%;
+	 border-color: black;
+   text-align: center;
+
+}
+
+.ui-dialog-titlebar-close {
+    visibility: hidden;
+}
